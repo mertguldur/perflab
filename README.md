@@ -1,6 +1,7 @@
 # PerfLab
 
 [![CircleCI](https://circleci.com/gh/mertguldur/perflab.svg?style=svg)](https://circleci.com/gh/mertguldur/perflab)
+[![Gem Version](https://badge.fury.io/rb/perflab.svg)](https://badge.fury.io/rb/perflab)
 
 ## Introduction
 
